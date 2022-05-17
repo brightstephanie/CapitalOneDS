@@ -1,0 +1,1 @@
+The answers to each question of this data science project are shown as output of codes as well as markdown notes in the Jupyternotebook. There is a "Summary" note section for each question. To run the codes, simply click Cell -> Run All.
